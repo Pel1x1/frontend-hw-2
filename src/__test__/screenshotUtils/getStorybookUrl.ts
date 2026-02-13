@@ -1,5 +1,5 @@
 
-const STORYBOOK_URL = 'http://localhost:6006/iframe';
+const STORYBOOK_URL = 'http://localhost:6007/iframe';
 
 const normalizeValue = (v: any) => {
   return String(v);
