@@ -7,8 +7,6 @@ export const BROWSER_OPTIONS = {
     "--no-sandbox",
     "--force-color-profile=srgb",
     "--font-render-hinting=none",
-    "--disable-font-subpixel-positioning",
-    
-  ],
-  executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+    "--disable-font-subpixel-positioning"
+  ]
 };
