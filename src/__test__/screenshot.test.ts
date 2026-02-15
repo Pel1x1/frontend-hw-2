@@ -39,7 +39,7 @@ describe('Screenshot', () => {
       });
     });
 
-    server.listen(6006);
+    server.listen(6007);
     browser = await puppeteer.launch(BROWSER_OPTIONS);
     page = await browser.newPage();
   }, 30000)
